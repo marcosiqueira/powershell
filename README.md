@@ -13,7 +13,7 @@ The command to execute the script is:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force
-& 'D:\Public\script''s\install.ps1' -Force -Confirm
+& 'D:\Public\script''s\install.ps1' -Confirm
 ```
 
 ### Command Breakdown:
