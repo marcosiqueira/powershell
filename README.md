@@ -1,6 +1,7 @@
 # powershell
 
 Running a PowerShell Script via GitHub
+
 This tutorial will teach you how to call a PowerShell script (.ps1) using the Bypass execution policy to avoid restrictions, ensuring the script runs correctly.
 
 1. Setting Up the Environment
