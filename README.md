@@ -58,3 +58,4 @@ This tutorial demonstrated how to call a PowerShell script (`.ps1`) using `Set-E
 ## License
 This project is licensed under the MIT License.
 rom GitHub. This approach is useful for automation and script distribution without needing to store them locally.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
